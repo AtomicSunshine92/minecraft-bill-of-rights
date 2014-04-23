@@ -28,24 +28,7 @@
 3. Nobody may unlawfully tresspass upon your claimed land.
 4. Nobody may unlawfully interfere with your claiming of items dropped by mobs and/or lawfully-killed opponents.
 
-## Article. 3. Judicial Rights
-
-### Section. 1. The Right to Due Process
-1. Nobody may deprive you of life, liberty or property, without due process of law.
-2. Nobody may deprive you of recovering compensation for a wrongful deprivation.
-3. Nobody may deprive you of an unbiased tribunal.
-4. Nobody may deprive you of a decision based exclusively on the evidence presented.
-5. Nobody may deprive you of the requirement that the tribunal prepare a record of the evidence presented.
-6. Nobody may deprive you of the requirement that the tribunal prepare written findings of fact and reasons for its decision.
-7. Nobody may deprive you of a notice for proposed action against you, and the grounds asserted for it.
-8. Nobody may deprive you of an opportunity to present reasons why the proposed action should not be taken.
-9. Nobody may deprive you of presenting evidence, including the calling of witnesses.
-10. Nobody may deprive you of knowing opposing evidence.
-11. Nobody may deprive you of cross-examining adverse witnesses.
-12. Nobody may deprive you of an opportunity to be represented by counsel.
-13. Nobody may deprive you of a timely trial.
-
-## Article. 4. Special Rights
+## Article. 3. Special Rights
 
 ### Section. 1. The Special Right to Establish a World Constitution
 1. The very first settler of a world is granted special, unchallengable authority to establish a World Constitution.
